@@ -1,5 +1,6 @@
 These apps do not collect any data at all:
-https://play.google.com/store/apps/details?id=com.dingleinc.texttoolspro
+
+1) https://play.google.com/store/apps/details?id=com.dingleinc.texttoolspro
 
 Most of my other apps do not collect any personally identifiable data. 
 
